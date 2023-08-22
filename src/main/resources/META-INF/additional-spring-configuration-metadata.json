@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "server.tomcat.min-spare-threads",
+      "type": "java.lang.String",
+      "description": "Description for server.tomcat.min-spare-threads."
+    },
+    {
+      "name": "logging.levelvnpt.stc.enterprise",
+      "type": "java.lang.String",
+      "description": "Description for logging.levelvnpt.stc.enterprise."
+    }
+  ] }

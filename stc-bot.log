@@ -1,0 +1,4 @@
+2023-08-22 13:40:11.514 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-22 13:40:18.545 [http-nio-8080-exec-4] INFO  v.s.e.s.endpoints.NotifyEndpoint : Start sendNotify #{"conversationId":"19:0c9616cf33a24c2d8894ffe3a9c64785@thread.skype","body":"hello"}
+2023-08-22 13:40:19.974 [http-nio-8080-exec-4] INFO  c.microsoft.bot.connector.UserAgent : UserAgent: BotBuilder/4.0.0 (JVM 1.8.0_211; Windows 10)
+2023-08-22 13:40:20.003 [http-nio-8080-exec-4] INFO  v.s.e.s.endpoints.NotifyEndpoint : End sendNotify #{"conversationId":"19:0c9616cf33a24c2d8894ffe3a9c64785@thread.skype","body":"hello"}
